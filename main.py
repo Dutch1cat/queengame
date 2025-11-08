@@ -2,7 +2,7 @@ import pygame
 from player import Player
 from enemy import Enemy
 import functions as f
-
+print("a")
 pygame.init()
 screen = pygame.display.set_mode((800, 600))
 clock = pygame.time.Clock()
